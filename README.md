@@ -13,3 +13,5 @@ Remark: cells of the same color are of the same generation
 You can read more in this [Wikipedia page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) about Conway's Game of Life.
 
 A playable version of the game is available <a href="https://editor.p5js.org/stephane.roncin/full/EVAPcOrd7" _target="p5js-space-invador">here</a>
+
+![conway-the-game-of-lif](assets/conway-the-game-of-life.png)
